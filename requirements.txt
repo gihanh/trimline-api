@@ -1,0 +1,5 @@
+numpy==2.3.2
+shapely==2.1.1
+trimesh==4.4.9
+flask==3.0.3
+gunicorn==21.2.0
